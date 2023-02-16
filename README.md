@@ -1,2 +1,2 @@
 # odin-recipes
-Basic recipe website
+Project 1: Basic recipe website
